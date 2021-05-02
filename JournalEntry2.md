@@ -2,7 +2,7 @@
 
 ## Dylan Davidson 5/2/21
 
-Social media has come a long way since it first took off in the myspace era (roughly 2005-2008) in terms of UX and design. Back in the old days social media could only be accessed on computers and no phones were capable of running social media websites and apps. Back in that time social media UX was terrible and often did not flow together well, but now almost all social media follows a similar layout and similar user flow. As you can see in the picture below, the old way of doing social media was not optimal nor did it make much sense because there are far too many things going on at once and there are too many navigation options present at any given time. 
+Social media has come a long way since it first took off in the myspace era (roughly 2005-2008) in terms of UX and design. Back in the old days, social media could only be accessed on computers and no phones were capable of running social media websites and apps. Back in that time social media UX was terrible and often did not flow together well, but now almost all social media follows a similar layout and similar user flow. As you can see in the picture below, the old way of doing social media was not optimal nor did it make much sense because there are far too many things going on at once and there are too many navigation options present at any given time. 
 
 ![58667610-58c8f080-82eb-11e9-9adf-b22a10cab519](https://user-images.githubusercontent.com/14100088/116828429-68928480-ab53-11eb-9e4c-3dd74406ab43.png)
 
