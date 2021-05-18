@@ -6,6 +6,7 @@ Ever since I began learning about UX (User eXperience) in this class I have been
 
 | <img src="https://user-images.githubusercontent.com/14100088/110268184-1deef480-7f76-11eb-9fa5-99a781b1a9c4.jpg" width="350"> | <img src="https://user-images.githubusercontent.com/14100088/110268177-1a5b6d80-7f76-11eb-8600-c73be3bbdaac.jpg" width="350"> | <img src="https://user-images.githubusercontent.com/14100088/110268215-2d6e3d80-7f76-11eb-83aa-79f990844b08.jpg" width="350"> |
 | :---: | :---: | :---: |
+| Center | Left | Right |
 
 At a glance of the wheel you can't get much information about it other than the buttons on it which are mostly mapped well to correspond to functions on the display and radio such as the directional buttons and the answer phone / hang up phone buttons. But if I'm being honest, some of these button mappings are horrific. I to this day still have no clue what the curved arrow button or the "Mode Hold" buttons on the left side of the wheel even do. Poor mappings and lack of afordance in design such as this cause the user to either ignore functionality that may prove useful, or force them to read through the dreaded user manual. 
 
